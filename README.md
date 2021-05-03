@@ -9,7 +9,7 @@ numpy
 spikeinterface  
 scikit-learn  
 matplotlib  
-multiprocessing
+multiprocessing  
 hdbscan
 
 # How to run
