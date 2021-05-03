@@ -14,8 +14,8 @@ hdbscan
 
 # Files
 
-HTsort
-|
+HTsort  
+|  
 |- h5data         (dataset directory )  
 |- detection.py   (spike detection)  
 |- extractor.py   (load data)  
