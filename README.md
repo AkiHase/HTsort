@@ -1,6 +1,6 @@
 # HTsort
 
-This is a demo version of HTsort. The release version is coming soon.
+This is a demo version of HTsort. The new version is coming soon.
 
 # Dependencies
 
@@ -15,5 +15,5 @@ hdbscan
 # How to run
 
 ```
-python main.py
+> python main.py
 ```
